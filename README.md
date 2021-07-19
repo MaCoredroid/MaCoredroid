@@ -9,8 +9,8 @@
  - ✨ **Initiator** of mutiple communities
  - 👔 Summer Analsyt at **Morgan Stanley** 
  - 🎓 Proud **UCI Anteater**
- - 🎓 Proud **SJTUer**
- - ✏ Male **Feminist**
+ - 🎓 Proud **SJTU er**
+ - 🏳️‍🌈 Ally of **LGBTQAI+** in tech
  
 ## 
 
