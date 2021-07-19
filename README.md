@@ -5,12 +5,13 @@
 </a>
 
 [Linkedin](https://www.linkedin.com/in/zhiyuanmatech) / [Leetcode](https://leetcode-cn.com/u/coredroid/) / [CV](https://drive.google.com/file/d/1z9VXolyVcG3mfDKKifk4S7Cjty3uS3-J/view?usp=sharing)
- - 📌 **Self-motivated** Learner
- - ✨ **Initiator** of mutiple communities
+ - 📌 **Self-motivated** Entrepreneur
+ - ✨ **Initiator** of Startups
  - 👔 Summer Analsyt at **Morgan Stanley** 
  - 🎓 Proud **UCI Anteater**
  - 🎓 Proud **SJTU er**
  - 🏳️‍🌈 Ally of **LGBTQAI+** in tech
+ - 🎯 Actively seeking **software internship** 2022 summer in US 🇺🇸
  
 ## 
 
