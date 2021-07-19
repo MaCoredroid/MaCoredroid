@@ -1,10 +1,10 @@
 ## Hi there, I'm Frank 👋
 
-<a href="http://google.com">
+<a href="https://github.com/MaCoredroid">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=macoredroid&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="Frank's github stats" />
 </a>
 
-[Linkedin](https://www.linkedin.com/in/yiyangiliu) / [Leetcode](https://leetcode.com/yiyangiliu) / [CV](https://github.com/yiyangiliu/Resume)
+[Linkedin](https://www.linkedin.com/in/zhiyuanmatech) / [Leetcode](https://leetcode-cn.com/u/coredroid/) / [CV](https://drive.google.com/file/d/1z9VXolyVcG3mfDKKifk4S7Cjty3uS3-J/view?usp=sharing)
  - 📌 **Self-motivated** Learner
  - ✨ **Initiator** of mutiple communities
  - 👔 Summer Analsyt at **Morgan Stanley** 
