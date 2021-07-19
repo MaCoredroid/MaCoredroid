@@ -7,7 +7,7 @@
 [Linkedin](https://www.linkedin.com/in/yiyangiliu) / [Leetcode](https://leetcode.com/yiyangiliu) / [CV](https://github.com/yiyangiliu/Resume)
  - 📌 **Self-motivated** Learner
  - ✨ **Initiator** of mutiple communities
- - 👔 Summer Analsyt at **Morgan Stanley** in Application Infrasturcture team
+ - 👔 Summer Analsyt at **Morgan Stanley** 
  - 🎓 Proud **UCI Anteater**
  - 🎓 Proud **SJTUer**
  - ✏ Male **Feminist**
