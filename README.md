@@ -5,13 +5,14 @@
 </a>
 
 [Linkedin](https://www.linkedin.com/in/zhiyuanmatech) / [Leetcode](https://leetcode.com/zhiyuanma/) / [CV](https://drive.google.com/file/d/1D3M_vBDAQx66XsObqezLFfifdJJtSLz7/view?usp=sharing)
- - ✨ **Initiator** of [Startups](https://casecloud.com.cn/)
+ - ✨ **Initiator** of [Startup](https://casecloud.com.cn/)
  - 👨‍💻 Software Intern at **Morgan Stanley**
  - 👨‍💻 Software Intern at **Salesforce**
  - 🎓 Proud **UCI Anteater**
  - 🎓 Proud **SJTU er**
- - 🏳️‍🌈 Ally of **LGBTQAI+** in tech
- - 🎯 Actively seeking **software engineer position** in US 🇺🇸
+ - 🎯 Actively seeking **software engineer positions** in US 
+ 
+ ![alt text](https://github.com/MaCoredroid/MaCoredroid/blob/master/Resume.jpg)
 ## 
 
 <!--
