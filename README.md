@@ -12,7 +12,7 @@
  - 🎓 Proud **SJTU er**
  - 🎯 Actively seeking **software engineer positions** in US 
  
- ![alt text](https://github.com/MaCoredroid/MaCoredroid/blob/master/Resume.jpg)
+ ![alt text](https://github.com/MaCoredroid/MaCoredroid/blob/master/Resume1.jpg)
 ## 
 
 <!--
