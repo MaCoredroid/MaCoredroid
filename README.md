@@ -11,8 +11,8 @@
  - 🎓 Proud **SJTU er**
  - 🎯 Actively seeking **software engineer positions** in US 
 
-```markdown
-# Hey there! I’m **Zhiyuan Ma**  
+
+# Hey there! I’m **Mark Ma**  
 
 If you’re looking for someone who’s singlehandedly powering digital lending platforms, slashing onboarding times, and weaving AI magic into enterprise apps—then pull up a chair, because you’ve found your new best friend.
 
