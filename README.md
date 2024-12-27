@@ -4,10 +4,9 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=macoredroid&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="Frank's github stats" />
 </a>
 
-[Linkedin](https://www.linkedin.com/in/zhiyuanmatech) / [Leetcode](https://leetcode.com/zhiyuanma/) / [CV](https://drive.google.com/file/d/1D3M_vBDAQx66XsObqezLFfifdJJtSLz7/view?usp=sharing)
- - ✨ **Initiator** of [Startup](https://casecloud.com.cn/)
- - 👨‍💻 Software Intern at **Morgan Stanley**
- - 👨‍💻 Software Intern at **Salesforce**
+[Linkedin](https://www.linkedin.com/in/zhiyuanmatech) / [CV](https://drive.google.com/file/d/1D3M_vBDAQx66XsObqezLFfifdJJtSLz7/view?usp=sharing)
+ - ✨ **Initiator** of [Startup](https://www.lawporter.com/)
+ - 👨‍💻 Member of Technical Staff at **Salesforce**
  - 🎓 Proud **UCI Anteater**
  - 🎓 Proud **SJTU er**
  - 🎯 Actively seeking **software engineer positions** in US 
