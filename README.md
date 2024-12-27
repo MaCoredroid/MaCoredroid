@@ -11,6 +11,7 @@
  - 🎓 Proud **SJTU er**
  - 🎯 Actively seeking **software engineer positions** in US 
 
+![alt text](https://github.com/MaCoredroid/MaCoredroid/blob/master/Resume.jpg)
 
 # Hey there! I’m **Mark Ma**  
 
@@ -70,19 +71,5 @@ When I’m not busy obliterating legacy systems or weaving AI wizardry into code
 
 **Ready to make your platform sprint like a caffeinated cheetah?**  
 Drop me a line. Let’s build something awesome together!
-```
+
  
- ![alt text](https://github.com/MaCoredroid/MaCoredroid/blob/master/Resume.jpg)
-## 
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
